@@ -12239,4 +12239,6 @@
     <string name="bluetooth_connect_access_dialog_positive">Connect</string>
     <string name="max_refresh_rate_title">Maximum refresh rate</string>
     <string name="preferred_refresh_rate_title">Preferred refresh rate</string>
+    <string name="refresh_rate_title">Refresh rate</string>
+    <string name="preferred_refresh_rate_info">Preferred refresh rate will be used as the default refresh rate for user interactions, as long as it\'s not lower than the minimum refresh rate and not higher than the maximum refresh rate.</string>
 </resources>
