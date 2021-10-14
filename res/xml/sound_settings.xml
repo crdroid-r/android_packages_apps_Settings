@@ -24,9 +24,7 @@
    <Preference
         android:key="sound_animation"
         android:layout="@layout/sound_animation" 
-        android:order="-999"
-        android:clickable="false"
-        android:selectable="false" />
+        android:order="-999"/>
 
     <!-- Remote volume group -->
     <PreferenceCategory

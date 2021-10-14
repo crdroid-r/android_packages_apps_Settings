@@ -23,9 +23,7 @@
 
     <Preference
         android:key="privacy_animation"
-        android:layout="@layout/privacy_animation"
-        android:clickable="false"
-        android:selectable="false" />
+        android:layout="@layout/privacy_animation" />
 
     <!-- This preference isn't searchable, and user won't see title in this preference.
          So, we just set empty text for title. -->

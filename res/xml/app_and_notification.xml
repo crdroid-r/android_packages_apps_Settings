@@ -25,9 +25,7 @@
    <Preference
         android:key="notification_animation"
         android:layout="@layout/notification_animation" 
-        android:order="-999"
-        android:clickable="false"
-        android:selectable="false" />
+        android:order="-999"/>
 
     <Preference
         android:key="all_app_info"

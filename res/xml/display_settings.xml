@@ -24,9 +24,7 @@
 
    <Preference
         android:key="display_animation"
-        android:layout="@layout/display_animation"
-        android:clickable="false"
-        android:selectable="false" />
+        android:layout="@layout/display_animation" />
 
     <com.android.settingslib.RestrictedPreference
         android:key="brightness"

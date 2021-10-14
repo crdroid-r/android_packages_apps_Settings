@@ -23,9 +23,7 @@
     <Preference
         android:key="wifi_anim" 
         android:layout="@layout/wifi_animation"
-        android:order="-999"
-        android:clickable="false"
-        android:selectable="false" />
+        android:order="-999"/>
 
     <PreferenceCategory
         android:key="multi_network_header"
